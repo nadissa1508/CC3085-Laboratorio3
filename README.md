@@ -1,2 +1,20 @@
-# CC3085-Laboratorio3
-Laboratorio No. 3 del curso Inteligencia Artificial
+
+# CC3085 – Inteligencia Artificial
+## Laboratorio 3
+
+## Estructura del Repositorio
+
+```
+CC3085-Laboratorio3/
+├── README.md
+├── task2/
+│   ├── entrenamiento.txt    # Datos de entrenamiento
+│   └── task_2_lab3.ipynb    # Notebook del Task 2
+└── task3/                    # Task 3 
+```
+
+
+## Colaboradores
+
+- Cristian Túnchez
+- Nadissa Vela
